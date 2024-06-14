@@ -10,7 +10,7 @@ This is a web based application developed for food related based website in indi
 
 *Project Link* - https://purple-flower-07d114a10.5.azurestaticapps.net
 
-** pro
+*project demo link* - 
 
 ## Azure technologies used for Project
 
