@@ -1,6 +1,6 @@
 # FRTProject
 This is my final FRT project
-#azure link - https://purple-flower-07d114a10.5.azurestaticapps.net
+#azure link - https://calm-pebble-0ef35ea10.5.azurestaticapps.net
 
 
 # ✨ Glory Luxe ✨
