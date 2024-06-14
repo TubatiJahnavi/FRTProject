@@ -8,7 +8,7 @@ This is a web based application developed for food related based website in indi
 
 ### This web based food aplication has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft,Future Skills Prime, Quess, Github and EY.
 
-*Project Link* - https://purple-flower-07d114a10.5.azurestaticapps.net
+*Project Link* - https://calm-pebble-0ef35ea10.5.azurestaticapps.net
 
 *project demo link* -  https://youtu.be/8J_pKhHU740
 
